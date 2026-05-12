@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hey there, I’m Shreena 👋<br><br>🎓 B.Tech CSE student specializing in Cloud Computing<br>💻 Exploring Web Development, DevOps, and AI-powered projects<br>☁️ Learning AWS, Docker, Grafana, Prometheus & modern cloud tools<br>🎨 Graphic designer with a strong interest in UI/UX and creative design<br>🧠 Psychology enthusiast who loves understanding people and ideas<br>🥋 Represented Maharashtra in Taekwondo at State & National level competitions<br>🌱 Currently building projects that combine tech + creativity + real-world impact<br>🚀 Always learning, building, and experimenting with new technologies<br>
 
-##What I’m Exploring
+**What I’m Exploring**
 
 ⚙️ Automating infrastructure using Terraform with an emphasis on reproducibility and scalability<br>
 🐳 Containerizing applications with Docker and exploring deployment workflows<br>
