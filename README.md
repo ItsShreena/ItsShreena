@@ -1,13 +1,7 @@
 ![MasterHead](https://i.pinimg.com/1200x/7b/87/1c/7b871cee4ff324b9cc17ea028b4074ce.jpg)
 <h1 align="center">Hi , I'm Shreena Mani</h1>
 <h3 align="center">Software Developer | Backend & Cloud Enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/ff/b9/20/ffb920c43371a7b4c8750ab70f73873e.jpg">
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsshreena&label=Profile%20views&color=0e75b6&style=flat" alt="itsshreena" /> </p>
-
-<p align="left"> <a href="https://twitter.com/makashyap1303" target="blank"><img src="https://img.shields.io/twitter/follow/makashyap1303?logo=twitter&style=for-the-badge" alt="makashyap1303" /></a> </p>
 
 - 💬 Ask me about **Java, Backend Development, REST APIs, AWS, Cloud Computing, Git, Databases, React, and UI/UX Design**
 
