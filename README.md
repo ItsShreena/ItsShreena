@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/1200x/7b/87/1c/7b871cee4ff324b9cc17ea028b4074ce.jpg)]
+![MasterHead](https://i.pinimg.com/1200x/7b/87/1c/7b871cee4ff324b9cc17ea028b4074ce.jpg)
 <h1 align="center">Hi , I'm Shreena Mani</h1>
 <h3 align="center">Software Developer | Backend & Cloud Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/ff/b9/20/ffb920c43371a7b4c8750ab70f73873e.jpg">
